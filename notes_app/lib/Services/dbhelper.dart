@@ -27,7 +27,7 @@ class Dbhelper {
       onCreate: (db, version) {
         db.execute('''
              CREATE TABLE $TableName(
-             $IdColumn INTEGER AUTOINCREMENT PRIMARY KEY,
+             $IdColumn INTEGER PRIMARY KEY AUTOINCREMENT,
              $TitleColumn TEXT,
              $DescriptionColumn TEXT )
            ''');
