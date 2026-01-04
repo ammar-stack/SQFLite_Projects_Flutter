@@ -1,16 +1,6 @@
-# notes_app
+A simple notes app performing CRUD using SQFLite. Screenshots are as follows:
 
-A new Flutter project.
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/3aa5ddbd-edda-4058-9d6b-b61c905031de" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/83c1cad9-866c-48e9-a4a4-c6a881788a8e" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/3875f61e-ccc1-409f-8c72-372882a16937" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
