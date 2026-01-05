@@ -1,7 +1,7 @@
 class ToDoModel {
   int? id;
   String? todo;
-  bool? isDone;
+  int? isDone;
 
   ToDoModel({this.id, this.todo, this.isDone});
 
